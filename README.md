@@ -1,7 +1,7 @@
 # Netflix Clone Using React JS and FireBase Authentication
 ## Netflix Clone built using React-JS/Styled Components And Firebase (Firestore & Auth)
 ## Live Demo
-
+``` https://netflix-clone-be888.web.app/```
 ## Tools Used:
 * Webpack
 * Axios
