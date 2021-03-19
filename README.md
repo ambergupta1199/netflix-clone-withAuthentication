@@ -5,5 +5,7 @@
 The requirements to build from source are:
 
 1. First clone this project repository
-> git clone https://github.com/ambergupta1199/netflix-clone-withAuthentication.git
-> cd netflix-clone-withAuthentication
+```
+git clone https://github.com/ambergupta1199/netflix-clone-withAuthentication.git
+cd netflix-clone-withAuthentication
+```
