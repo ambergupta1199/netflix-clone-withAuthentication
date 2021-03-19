@@ -9,3 +9,22 @@ The requirements to build from source are:
 git clone https://github.com/ambergupta1199/netflix-clone-withAuthentication.git
 cd netflix-clone-withAuthentication
 ```
+2. Run npm install to install dependencies for the project
+
+```
+npm install
+```
+
+3.Fill config object in 'src/firebase.js it with your Firebase credentials
+
+```
+FIREBASE_APIKEY=""
+FIREBASE_AUTHDOMAIN=""
+FIREBASE_PROJECTID=""
+FIREBASE_STORAGEBUCKET=""
+FIREBASE_MESSAGINGSENDERID=""
+FIREBASE_APPID=""
+FIREBASE_MESSAGINGSENDERID=""
+
+```
+4. Run ```npm start``` to run the development server.
